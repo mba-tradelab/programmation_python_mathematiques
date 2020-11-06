@@ -1,2 +1,2 @@
 # programmation_python_mathematiques
-Travail sur le livre "Programmation en Python pour les mathématiques"
+Ce repo vise à recueillir mon travail de suivi du livre "Programmation en Python pour les Mathématiques"
